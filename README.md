@@ -1,4 +1,8 @@
-# CaseEncoder for EMNLP2023 Submission
+# CaseEncoder 
+
+## Accepted by EMNLP2023
+CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case
+Encoding
 
 ## Before Start
 
